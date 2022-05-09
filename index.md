@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## welcome to epik suubdomain takeover
 
-You can use the [editor on GitHub](https://github.com/ilovedogs1235/takeover_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+subdomain takeover epic win
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+epic subdomain takeover
 
-### Markdown
+### takoeover
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+fart
 
 ```markdown
 Syntax highlighted code block
